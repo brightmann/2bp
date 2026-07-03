@@ -262,5 +262,15 @@
 			"3D"
 		],
 		"stars": 3
+	},
+	{
+		"name": "Flux Pic Shader",
+		"logo": "blob:https://www.yysuni.com/2ae49d95-cde7-4a10-bdd4-f66f81ce4065",
+		"url": "https://shaders.fluxpic.com/",
+		"description": "流体动画工具，说不定以后可以参考",
+		"tags": [
+			"动画"
+		],
+		"stars": 3
 	}
 ]
